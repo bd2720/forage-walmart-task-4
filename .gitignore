@@ -1,2 +1,4 @@
 # Test Database
 shipment_database.TEST.db
+# utility folder/scripts for clearing/querying Database
+util/
